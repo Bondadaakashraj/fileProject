@@ -1,0 +1,1 @@
+{"name":"chiru","phoneNumber":"9652932489","email":"chiru@gmail.com","yearOfPassout":"2021","collegeName":"acet","customCollegeName":"acet","HighestDegree":"B.tech","branch":"cse","cgpa":"76","alreadyPlaced":"Yes","twelfthBranch":"reg","twelfthPercentage":"65","twelfthPassout":"2000","tenthBranch":"resfe","tenthPercentage":"66","tenthPassout":"77"}
